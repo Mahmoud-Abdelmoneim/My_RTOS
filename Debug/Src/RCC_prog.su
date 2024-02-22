@@ -1,0 +1,10 @@
+../Src/RCC_prog.c:11:6:RCC_SetClkStatus	16	static
+../Src/RCC_prog.c:49:6:RCC_SetSystemClk	16	static
+../Src/RCC_prog.c:53:6:RCC_HSE_Config	16	static
+../Src/RCC_prog.c:58:6:RCC_PLL_Config	16	static
+../Src/RCC_prog.c:62:6:RCC_AHB_PeriphralEnableClk	16	static
+../Src/RCC_prog.c:66:6:RCC_AHB_PeriphralDisableClk	16	static
+../Src/RCC_prog.c:70:6:RCC_APB1_PeriphralEnableClk	16	static
+../Src/RCC_prog.c:74:6:RCC_APB1_PeriphralDisableClk	16	static
+../Src/RCC_prog.c:78:6:RCC_APB2_PeriphralEnableClk	16	static
+../Src/RCC_prog.c:82:6:RCC_APB2_PeriphralDisableClk	16	static

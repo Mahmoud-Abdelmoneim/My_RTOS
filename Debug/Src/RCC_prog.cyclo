@@ -1,0 +1,10 @@
+RCC_prog.c:11:6:RCC_SetClkStatus	11
+RCC_prog.c:49:6:RCC_SetSystemClk	1
+RCC_prog.c:53:6:RCC_HSE_Config	1
+RCC_prog.c:58:6:RCC_PLL_Config	1
+RCC_prog.c:62:6:RCC_AHB_PeriphralEnableClk	1
+RCC_prog.c:66:6:RCC_AHB_PeriphralDisableClk	1
+RCC_prog.c:70:6:RCC_APB1_PeriphralEnableClk	1
+RCC_prog.c:74:6:RCC_APB1_PeriphralDisableClk	1
+RCC_prog.c:78:6:RCC_APB2_PeriphralEnableClk	1
+RCC_prog.c:82:6:RCC_APB2_PeriphralDisableClk	1

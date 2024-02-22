@@ -1,0 +1,4 @@
+GPIO_prog.c:17:9:GPIO_u8PinInit	8
+GPIO_prog.c:90:9:GPIO_u8SetPinValue	3
+GPIO_prog.c:112:9:GPIO_u8TogglePinValue	3
+GPIO_prog.c:135:9:GPIO_u8GetPinValue	3
